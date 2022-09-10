@@ -1,5 +1,5 @@
-# <center>기본적인 Markdown 문법 공부</center>
-
+__<center>기본적인 Markdown 문법 공부</center>__
+======
 ## 제목(Header) 
 
 ### code
