@@ -1,4 +1,6 @@
-# 제목(Header) 
+<center># 기본적인 Markdown 문법 공부</center>
+
+## 제목(Header) 
 
 ### code
 >
