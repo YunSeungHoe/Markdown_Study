@@ -1,6 +1,6 @@
 # 제목(Header) 
 
-```Markdown:Header.md
+```:Header.md
 # Hello Markdown
 ## Hello Markdown
 ### Hello Markdown
