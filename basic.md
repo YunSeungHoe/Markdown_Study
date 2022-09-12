@@ -1,6 +1,16 @@
 __<div align="center">기본적인 Markdown 문법 공부</div>__
 ======
 
++ ### 제목(Header) 넣기
+  - #### code
+
+```
+Header
+======
+Header
+------
+```
+
 + ### 제목(Header) 크기
   - #### code
 
