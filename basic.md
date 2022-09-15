@@ -39,7 +39,7 @@ Bold          : **(content)** or __(content)__
 strikethrough : ~~(content)~~
 underscore    : <u>(content)</u>
 ```
-  - ### result
+  - #### result
 > *(content)* or _(content)_<br>
   **(content)** or __(content)__<br>
   ~~(content)~~<br>
