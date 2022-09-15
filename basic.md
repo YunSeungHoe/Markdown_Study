@@ -30,3 +30,17 @@ Hello Markdown
 <div align="center"> Center </div>
 ```
 
++ ### 제목(Header) 강조(Emphasis)
+  - #### code
+
+```
+Italic        : *(content)* or _(content)_
+Bold          : **(content)** or __(content)__
+strikethrough : ~~(content)~~
+underscore    : <u>(content)</u>
+```
+  - ### result
+> *(content)* or _(content)_<br>
+  **(content)** or __(content)__<br>
+  ~~(content)~~<br>
+  <u>(content)</u><br>
